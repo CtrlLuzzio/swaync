@@ -1,0 +1,2 @@
+# swaync
+Personal SwayNC Configuration
